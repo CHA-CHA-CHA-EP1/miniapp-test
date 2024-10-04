@@ -32,7 +32,7 @@ export default function Home() {
           )
         }
       >
-        Exchange Token
+        Exchange Token.
       </button>
       {/* uncomment the button below to enable get customer profile button */}
        <button
